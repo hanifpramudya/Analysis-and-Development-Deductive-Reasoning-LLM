@@ -1,0 +1,27 @@
+,text,label
+0,"Premise-1: No reptile has fur.
+Premise-2: All snakes are reptiles.
+Is it true or false? Some snake has fur.",False
+1,"Premise-1: The Lumina APV is produced by Chevrolet.
+Premise-2: The Astro is a van produced by Chevrolet.
+Premise-3: Vehicles produced by Chevrolet in this batch are either cars or vans.
+Is it true or false? The Lumina APV is either a car or a van.",True
+2,"Premise-1: Roads are made of either concrete or asphalt.
+Premise-2: Roads made of concrete last longer than roads made with asphalt.
+Premise-3: Roads made of asphalt are smoother than roads made of concrete.
+Premise-4: Everyone prefers the smoother of two roads.
+Premise-5: The first road is made of concrete, and the second road is made of asphalt.
+Is it true or false? The second road is not smoother than the first one.",False
+3,"Premise-1: Frederick Monhoff was an architect, artist, and illustrator.
+Premise-2: Frederick Monhoff was an American.
+Premise-3: An artist is good at physical or conceptual art.
+Premise-4: All Americans are American citizens.
+Is it true or false? No illustrator was an American citizen.",False
+4,"""Premise-1: Notable people with the given name include Dagfinn Aarskog, Dagfinn Bakke and Dagfinn Dahl.
+Premise-2: Dagfinn Aarskog is a Norwegian physician.
+Premise-3: Dagfinn Dahl is a Norwegian barrister.
+Is it true or false? Dagfinn Aarskog is a notable person.",True
+5,"Premise-1: A summarization model is always faithful if it uses content from the input documents.
+Premise-2: Extractive models are summarization models.
+Premise-3: An extractive model can only use content from the input documents.
+Is it true or false? Extractive models are always faithful.",True

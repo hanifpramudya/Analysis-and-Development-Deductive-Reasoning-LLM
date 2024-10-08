@@ -1,0 +1,7 @@
+prompt = f"""
+Premise:
+[PREMISE]
+
+Hypothesis:
+Is it true or false? [HYPOTHESIS]
+"""

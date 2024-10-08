@@ -1,0 +1,15 @@
+prompt = f"""
+A logical approach will help us quickly arrive at the solution to this problem. Your output should be of the following format:
+
+Reasoning:
+Your reasoning here.
+
+Answer:
+Your final answer (either true or false).
+
+Premise:
+[Prem]
+
+Hypothesis:
+Is it true or false? [Hyp]
+"""

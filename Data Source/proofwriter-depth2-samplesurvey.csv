@@ -1,0 +1,91 @@
+Premise;Hypothesis;label
+"Premise-1: Fiona is blue.
+Premise-2: Gary is furry.
+Premise-3: Gary is green.
+Premise-4: Fiona is quiet.
+Premise-5: Fiona is cold.
+Premise-6: Gary is quiet.
+Premise-7: Gary is kind.
+Premise-8: Gary is round.
+Premise-9: Fiona is furry.
+Premise-10: Fiona is kind.
+Premise-11: Quiet people are blue  Premise-12: blue people are kind.";Gary is kind.;TRUE
+"Premise-1: Erin is quiet.
+Premise-2: Dave is blue.
+Premise-3: Fiona is green.
+Premise-4: If something is red and not quiet then it is green.
+Premise-5: All quiet things are furry.
+Premise-6: All furry things are not green.
+Premise-7: If something is furry then it is kind.
+Premise-8: If something is round and not furry then it is quiet.
+Premise-9: If something is red then it is blue.
+Premise-10: If Dave is green and Dave is quiet then Dave is kind.
+Premise-11: All green, furry things are kind.";Erin is kind.;TRUE
+"Premise-1: The lion is blue.
+Premise-2: The tiger sees the bald eagle.
+Premise-3: The bald eagle likes the cat.
+Premise-4: The tiger does not see the lion.
+Premise-5: The tiger needs the cat.
+Premise-6: The lion sees the tiger.
+Premise-7: The bald eagle needs the lion.
+Premise-8: The cat is rough.
+Premise-9: The tiger does not like the bald eagle.
+Premise-10: The cat does not need the lion.
+Premise-11: The bald eagle is rough.
+Premise-12: The bald eagle does not see the tiger.
+Premise-13: If someone sees the tiger then they needs the tiger. Premise-14: If someone needs the tiger then they like the bald eagle";The lion does not like the bald eagle.;FALSE
+"Premise-1: The bald eagle likes the mouse.
+Premise-2: The bald eagle needs the rabbit.
+Premise-3: The tiger needs the mouse.
+Premise-4: The bald eagle is young.
+Premise-5: The tiger likes the bald eagle.
+Premise-6: The rabbit needs the mouse.
+Premise-7: The tiger is round.
+Premise-8: The mouse is kind.
+Premise-9: The mouse needs the bald eagle.
+Premise-10: The rabbit is young.
+Premise-11: The bald eagle eats the tiger.
+Premise-12: If something young then it eats the mouse.
+Premise-13: If the mouse eats the rabbit then the mouse eats the bald eagle.
+Premise-14: If something needs the rabbit then it likes the rabbit.
+Premise-15: If something eats the mouse then the mouse needs the rabbit.
+Premise-16: All kind things are young. Premise-17: If something is young then its round.";The mouse is round.;TRUE
+"Premise-1: Bob is green.
+Premise-2: Fiona is green.
+Premise-3: Dave is red.
+Premise-4: Bob is red.
+Premise-5: Dave is not green.
+Premise-6: Fiona is not round.
+Premise-7: Fiona is white.
+Premise-8: Bob is white.
+Premise-9: Dave is not round.
+Premise-10: Bob is quiet.
+Premise-11: Bob is furry.
+Premise-12: Fiona is furry.
+Premise-13: Dave is white.
+Premise-14: Dave is not furry.
+Premise-15: Fiona is red.
+Premise-16: If something is red and not quiet then it is green.
+Premise-17: If something is furry then it is white.
+Premise-18: All furry, round things are red.
+Premise-19: If Bob is furry and Bob is quiet then Bob is white.
+Premise-20: If Bob is quiet then Bob is young.
+Premise-21: Quiet, green things are furry. Premise-22: If Bob is young then Bob is round.";Bob is not round.;FALSE
+"Premise-1: Fiona is green.
+Premise-2: Harry is kind.
+Premise-3: Charlie is rough.
+Premise-4: Fiona is rough.
+Premise-5: Harry is smart.
+Premise-6: Fiona is smart.
+Premise-7: Charlie is green.
+Premise-8: Fiona is furry.
+Premise-9: Harry is rough.
+Premise-10: Charlie is blue.
+Premise-11: Harry is green.
+Premise-12: Harry is blue.
+Premise-13: Charlie is furry.
+Premise-14: Erin is green.
+Premise-15: Fiona is kind.
+Premise-16: Charlie is smart.
+Premise-17: Kind things are smart.
+Premise-18: If something is green the it is furry.  Premise-19: If something is furry then it is big.";Harry is not big.;FALSE

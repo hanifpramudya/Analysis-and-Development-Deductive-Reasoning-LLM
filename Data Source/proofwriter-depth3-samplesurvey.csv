@@ -1,0 +1,80 @@
+Premise,Hypothesis,label
+"Premise-1: Harry is green.
+Premise-2: Harry is red.
+Premise-3: Harry is white.
+Premise-4: Red things are smart.
+Premise-5: Green, nice things are big.
+Premise-6: Furry things are nice.
+Premise-7: All smart things are furry.",Harry is nice.,TRUE
+"Premise-1: Charlie is red.
+Premise-2: Erin is cold.
+Premise-3: Erin is young.
+Premise-4: Bob is furry.
+Premise-5: Erin is smart.
+Premise-6: Harry is red.
+Premise-7: Harry is kind.
+Premise-8: Charlie is smart.
+Premise-9: Charlie is young.
+Premise-10: Bob is red.
+Premise-11: Smart things are furry.
+Premise-12: If something is rough then it is smart.
+Premise-13: Red things are rough.
+",Harry is not furry.,FALSE
+"Premise-1: Gary is red.
+Premise-2: Red, green people are round.
+Premise-3: If someone is round and red then they are cold.
+Premise-4: Red people are green.
+",Gary is cold.,TRUE
+"Premise-1: Bob is young.
+Premise-2: Bob is furry.
+Premise-3: Bob is round.
+Premise-4: Gary is cold.
+Premise-5: Dave is kind.
+Premise-6: Charlie is quiet.
+Premise-7: Charlie is round.
+Premise-8: Dave is round.
+Premise-9: Gary is blue.
+Premise-10: Bob is blue.
+Premise-12: Blue people are furry.
+Premise-13: All young, cold people are round.
+Premise-14: All furry people are quiet.
+Premise-15: If Charlie is cold then Charlie is furry.
+Premise-16: If Gary is quiet then Gary is young.
+Premise-17: All round, blue people are kind.
+Premise-18: If someone is round and kind then they are young.
+Premise-19: If someone is furry then they are cold.
+Premise-20: All kind, blue people are cold.",Gary is not young.,FALSE
+"Premise-1: The dog does not chase the bald eagle.
+Premise-2: The rabbit sees the squirrel.
+Premise-3: The squirrel chases the bald eagle.
+Premise-4: The rabbit does not see the dog.
+Premise-5: The rabbit visits the dog.
+Premise-6: The bald eagle does not chase the dog.
+Premise-7: The dog does not see the rabbit.
+Premise-8: The dog is round.
+Premise-9: The squirrel chases the rabbit.
+Premise-10: The bald eagle is red.
+Premise-11: The dog sees the bald eagle.
+Premise-12: The rabbit sees the bald eagle.
+Premise-13: The rabbit is young.
+Premise-14: The rabbit does not visit the bald eagle.
+Premise-15: The squirrel is round.
+Premise-16: The rabbit is kind.
+Premise-17: If someone visits the squirrel then the squirrel visits the rabbit.
+Premise-18: If someone is round then they chase the rabbit.
+Premise-19: If someone is young and round then they visit the bald eagle.
+Premise-20: If someone visits the squirrel and the squirrel visits the rabbit then they are round.
+Premise-21: If someone is young and not red then they visit the bald eagle.
+Premise-22: If someone is big then they do not chase the dog.
+Premise-23: All round people are not kind.
+Premise-24: If someone is red then they visit the squirrel.
+Premise-25: If someone is red and they chase the rabbit then they visit the dog.",The bald eagle is not round.,FALSE
+"Premise-1: The tiger is green.
+Premise-2: The lion needs the tiger.
+Premise-3: The tiger is blue.
+Premise-4: If something is nice then it does not need the tiger.
+Premise-5: If something needs the lion and the lion chases the tiger then it is not big.
+Premise-6: If something visits the tiger then the tiger chases the lion.
+Premise-7: If the lion needs the tiger and the lion chases the tiger then the lion visits the tiger.
+Premise-8: If something is big and it does not visit the lion then the lion does not visit the tiger.
+Premise-9: If the lion needs the tiger then the lion chases the tiger.",The tiger chases the lion.,TRUE
