@@ -9,7 +9,7 @@ Premise-7: Gary is kind.
 Premise-8: Gary is round.
 Premise-9: Fiona is furry.
 Premise-10: Fiona is kind.
-Premise-11: Quiet people are blue  Premise-12: blue people are kind.";Gary is kind.;TRUE
+Premise-11: Quiet people are blue Premise-12: blue people are kind.";Gary is kind.;TRUE
 "Premise-1: Erin is quiet.
 Premise-2: Dave is blue.
 Premise-3: Fiona is green.
@@ -33,7 +33,7 @@ Premise-9: The tiger does not like the bald eagle.
 Premise-10: The cat does not need the lion.
 Premise-11: The bald eagle is rough.
 Premise-12: The bald eagle does not see the tiger.
-Premise-13: If someone sees the tiger then they needs the tiger. Premise-14: If someone needs the tiger then they like the bald eagle";The lion does not like the bald eagle.;FALSE
+Premise-13: If someone sees the tiger then they needs the tiger.Premise-14: If someone needs the tiger then they like the bald eagle";The lion does not like the bald eagle.;FALSE
 "Premise-1: The bald eagle likes the mouse.
 Premise-2: The bald eagle needs the rabbit.
 Premise-3: The tiger needs the mouse.
@@ -49,7 +49,7 @@ Premise-12: If something young then it eats the mouse.
 Premise-13: If the mouse eats the rabbit then the mouse eats the bald eagle.
 Premise-14: If something needs the rabbit then it likes the rabbit.
 Premise-15: If something eats the mouse then the mouse needs the rabbit.
-Premise-16: All kind things are young. Premise-17: If something is young then its round.";The mouse is round.;TRUE
+Premise-16: All kind things are young.Premise-17: If something is young then its round.";The mouse is round.;TRUE
 "Premise-1: Bob is green.
 Premise-2: Fiona is green.
 Premise-3: Dave is red.
@@ -70,7 +70,7 @@ Premise-17: If something is furry then it is white.
 Premise-18: All furry, round things are red.
 Premise-19: If Bob is furry and Bob is quiet then Bob is white.
 Premise-20: If Bob is quiet then Bob is young.
-Premise-21: Quiet, green things are furry. Premise-22: If Bob is young then Bob is round.";Bob is not round.;FALSE
+Premise-21: Quiet, green things are furry.Premise-22: If Bob is young then Bob is round.";Bob is not round.;FALSE
 "Premise-1: Fiona is green.
 Premise-2: Harry is kind.
 Premise-3: Charlie is rough.
@@ -88,4 +88,4 @@ Premise-14: Erin is green.
 Premise-15: Fiona is kind.
 Premise-16: Charlie is smart.
 Premise-17: Kind things are smart.
-Premise-18: If something is green the it is furry.  Premise-19: If something is furry then it is big.";Harry is not big.;FALSE
+Premise-18: If something is green the it is furry. Premise-19: If something is furry then it is big.";Harry is not big.;FALSE
